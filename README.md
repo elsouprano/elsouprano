@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://giphy.com/gifs/GrindCoin-grind-coin-hamster-ZS57kdXudVqsDX0TLH" width="400" alt="coding gif"/>
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGRsamJlN2ZtMG41OG9rejR3OWtuczQ1aHJqZnNpbHBmaTZnMnkwbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZS57kdXudVqsDX0TLH/giphy.gif" width="400" alt="coding gif"/>
 </p>
 
 ---
