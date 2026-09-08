@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm elsouprano 👋🍜</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Building+things+that+work...+eventually;Python+by+day,+JS+by+night;Currently+debugging+life;Welcome+to+my+digital+garden+🌱&center=true&width=500&height=45&color=36BCF7&vcenter=true&size=22" alt="Typing SVG" />
+  <i>Building things that work... eventually 🍜 Python by day, JS by night. Welcome to my digital garden 🌱</i>
 </p>
 
 <p align="center">
@@ -31,33 +31,32 @@ I like sprinkling code across a bunch of different stacks — a bit of Astro her
 
 ### 📌 Featured Projects
 
-<p align="left">
-  <a href="https://github.com/elsouprano/digital-garden">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=elsouprano&repo=digital-garden&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/elsouprano/novacart">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=elsouprano&repo=novacart&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/elsouprano/EcoTrace">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=elsouprano&repo=EcoTrace&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/elsouprano/aifactchecker">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=elsouprano&repo=aifactchecker&theme=tokyonight" />
-  </a>
-</p>
+| Project | Description | Stack |
+|---|---|---|
+| [**digital-garden**](https://github.com/elsouprano/digital-garden) | My first project using Astro | Astro |
+| [**novacart**](https://github.com/elsouprano/novacart) | A cart/commerce project | Python |
+| [**EcoTrace**](https://github.com/elsouprano/EcoTrace) | Eco-tracking app | JavaScript |
+| [**aifactchecker**](https://github.com/elsouprano/aifactchecker) | AI-powered fact checking | JavaScript |
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=elsouprano&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elsouprano&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://img.shields.io/github/followers/elsouprano?label=Followers&style=for-the-badge&color=36BCF7" />
+  <img src="https://img.shields.io/github/stars/elsouprano?label=Total%20Stars&style=for-the-badge&color=36BCF7" />
 </p>
 
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=elsouprano&theme=tokyonight&hide_border=true" alt="streak stats"/>
 </p>
+
+<p align="left">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=elsouprano&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elsouprano&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<sub>Note: the two cards above use a shared public demo service that occasionally goes down under load — if they show as broken images, just refresh, or remove them and rely on the shields.io badges above instead.</sub>
 
 ---
 
